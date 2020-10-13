@@ -17,5 +17,5 @@
   "key_query_shared_bottleneck": true,
   "num_feedforward_networks": 4,
   "normalization_type": "no_norm",
-  "classifier_activation": true,
+  "classifier_activation": false,
 }
