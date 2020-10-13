@@ -1,7 +1,6 @@
 import math
 import torch
 import torch.nn as nn
-from models.neural import MultiHeadedAttention
 from models.neural import MultiHeadedAttention, PositionwiseFeedForward
 
 
