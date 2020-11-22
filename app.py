@@ -101,7 +101,7 @@ def crawl_url(url):
     article.parse()
     return article.text
 
-    st.markdown("<h3 style='text-align: center; bottom:0px;'>Developed By <a href="https://github.com/shakirhurrah">SHAKIR HURRAH </a>, BASIT ALTAF & MAHIR-UL-ISLAM ✏️</h3>", unsafe_allow_html=True)
+    st.markdown("<h3 style='text-align: center; bottom:0px;'>Developed By SHAKIR HURRAH, BASIT ALTAF & MAHIR-UL-ISLAM ✏️</h3>", unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()
